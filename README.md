@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KayceeIngram
+- 👋 Hi, I’m @KayceeIngram and I am a college student studying Computer Science.
 - 👀 I’m interested in building things and meeting others who are just as passionate as I am!
-- 🌱 I’m currently learning WordPress Development and other things.
-- 💞️ I’m looking to collaborate on Projects in the WordPress Ecosystem.
+- 🌱 I’m currently learning all things JavaScript and a whole bunch of other stuff.
+- 💞️ I’m looking to collaborate on Projects in the JavaScript Ecosystem.
 - 📫 How to reach me - by email at [my last name][my first name]@gmail.com - (no spaces).
 
 <!---
