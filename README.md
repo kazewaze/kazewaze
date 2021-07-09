@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KayceeIngram and I am a college student studying Computer Science.
+- 👋 Hi I’m @KayceeIngram, a college student studying Computer Science.
 - 👀 I’m interested in building things and meeting others who are just as passionate as I am!
 - 🌱 I’m currently learning all things WordPress/JavaScript and a whole bunch of other stuff.
 - 💞️ I’m looking to collaborate on projects in the WordPress and JavaScript Ecosystem.
